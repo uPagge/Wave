@@ -1,6 +1,8 @@
 <footer class="site-footer container medium">
     {{> customize/subscribe}}
-    <div id="remark42" style="margin-top: 2rem"></div>
+    {{#is "post"}}
+        <div id="remark42" style="margin-top: 2rem"></div>
+    {{/is}}
 </footer>
 
 {{^is "post"}}
