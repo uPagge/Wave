@@ -1,5 +1,5 @@
 routes:
-  /rss/:
+  /rss/episode/:
     template: rss
     content_type: text/xml
 collections:
