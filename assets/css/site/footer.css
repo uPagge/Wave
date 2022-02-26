@@ -6,7 +6,7 @@
 
 .site-footer .subscribe {
     justify-content: center;
-    padding-bottom: 15px;
+    padding-top: 15px;
     border-top: 1px solid var(--mid-gray-color);
 }
 
@@ -15,6 +15,7 @@
 }
 
 .copyright {
+    padding-top: 15px;
     border-top: 1px solid var(--mid-gray-color);
 }
 
