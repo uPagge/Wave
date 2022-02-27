@@ -7,6 +7,7 @@
 
 .player .post-media {
     margin: -1px 0 -1px -1px;
+    border: 1px solid var(--mid-gray-color);
     border-radius: 3px 0 0 3px;
 }
 
@@ -71,7 +72,7 @@
     z-index: 90;
     height: 80px;
     border: 0;
-    background-color: rgba(255, 255, 255, 0.8);
+    background-color: rgb(255 255 255 / 80%);
     transition: transform 0.5s var(--animation-base);
     transform: translateY(80px);
     backdrop-filter: blur(8px);
