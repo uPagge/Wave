@@ -35,6 +35,7 @@
 }
 
 .u-overlay.initialized::before {
+    border-radius: 16px;
     opacity: 0.4;
 }
 
