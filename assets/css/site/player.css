@@ -8,7 +8,7 @@
 .player .post-media {
     margin: -1px 0 -1px -1px;
     border: 1px solid var(--mid-gray-color);
-    border-radius: 3px 0 0 3px;
+    border-radius: 10px 0 0 10px;
 }
 
 .player .post-title {
