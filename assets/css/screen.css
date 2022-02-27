@@ -18,6 +18,7 @@
 @import "blog/single.css";
 @import "blog/pagination.css";
 @import "blog/author.css";
+@import "blog/comments.css";
 @import "blog/share.css";
 @import "vendor/lazyload.css";
 @import "misc/kg.css";
