@@ -54,6 +54,10 @@
     text-transform: uppercase;
 }
 
+.post-footer-more {
+    margin-right: 12px;
+}
+
 .post-meta-tags {
     margin-left: 5px;
 }
