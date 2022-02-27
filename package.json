@@ -57,6 +57,10 @@
                 "type": "text",
                 "default": "https://open.spotify.com/"
             },
+            "deezer_link": {
+                "type": "text",
+                "default": "https://www.deezer.com/"
+            },
             "overcast_link": {
                 "type": "text",
                 "default": "https://overcast.fm/"

@@ -20,6 +20,13 @@
             <span class="subscribe-text">Spotify</span>
         </a>
     {{/if}}
+    {{#if @custom.deezer_link}}
+        <a href="{{@custom.deezer_link}}" class="subscribe-link" target="_blank"
+           rel="noopener noreferrer">
+            <i class="icon icon-deezer"></i>
+            <span class="subscribe-text">Deezer</span>
+        </a>
+    {{/if}}
     {{#if @custom.overcast_link}}
         <a href="{{@custom.overcast_link}}" class="subscribe-link" target="_blank"
             rel="noopener noreferrer">

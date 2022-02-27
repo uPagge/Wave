@@ -75,6 +75,10 @@
     content: "\e940";
 }
 
+.icon-deezer::before {
+    content: "\e941";
+}
+
 .icon-apple::before {
     content: "\e934";
 }
