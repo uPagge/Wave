@@ -82,10 +82,10 @@
         "zip": "gulp zip"
     },
     "devDependencies": {
-        "autoprefixer": "10.4.2",
+        "autoprefixer": "10.4.4",
         "beeper": "2.1.0",
-        "cssnano": "5.0.17",
-        "gscan": "4.22.0",
+        "cssnano": "5.1.4",
+        "gscan": "4.23.1",
         "gulp": "4.0.2",
         "gulp-concat": "2.6.1",
         "gulp-livereload": "4.0.2",
@@ -93,10 +93,10 @@
         "gulp-stylelint": "13.0.0",
         "gulp-uglify": "3.0.2",
         "gulp-zip": "5.1.0",
-        "postcss": "8.4.7",
+        "postcss": "8.4.12",
         "postcss-easy-import": "4.0.0",
         "pump": "3.0.0",
-        "stylelint": "14.5.3",
+        "stylelint": "14.6.0",
         "stylelint-config-standard": "25.0.0",
         "stylelint-order": "5.0.0"
     }
